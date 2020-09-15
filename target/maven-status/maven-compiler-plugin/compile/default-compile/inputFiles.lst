@@ -1,0 +1,13 @@
+C:\project\game\wallet\src\main\java\game\Wallet.java
+C:\project\game\wallet\src\main\java\game\WalletRepository.java
+C:\project\game\wallet\src\main\java\game\AbstractEvent.java
+C:\project\game\wallet\src\main\java\game\config\kafka\KafkaProcessor.java
+C:\project\game\wallet\src\main\java\game\external\GiftServiceFallback.java
+C:\project\game\wallet\src\main\java\game\Issued.java
+C:\project\game\wallet\src\main\java\game\external\Gift.java
+C:\project\game\wallet\src\main\java\game\Exchanged.java
+C:\project\game\wallet\src\main\java\game\Allocated.java
+C:\project\game\wallet\src\main\java\game\external\GiftService.java
+C:\project\game\wallet\src\main\java\game\PolicyHandler.java
+C:\project\game\wallet\src\main\java\game\WalletController.java
+C:\project\game\wallet\src\main\java\game\WalletApplication.java
